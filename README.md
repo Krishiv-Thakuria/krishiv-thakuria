@@ -1,8 +1,8 @@
 ## Hey, I'm Krishiv 
 
-#### I'm currently working on building the Google Maps of data at the MIT Kellis Lab under Professor Manolis Kellis. I also taught MIT 6.S189 (Foundations and Frontiers of Generative AI), a for-credit course at MIT EECS with 6 units, and MIT 15.S65, a course on deploying AI in the corporation for executive MBAs at MIT Sloan.
+I'm currently working on building the Google Maps of data at the MIT Kellis Lab under Professor Manolis Kellis. I also taught MIT 6.S189 (Foundations and Frontiers of Generative AI), a for-credit course at MIT EECS with 6 units, and MIT 15.S65, a course on deploying AI in the corporation for executive MBAs at MIT Sloan.
 
-#### Prior to this, I developed AI agents and wrote investment memos at Simple Ventures, a leading Canadian venture studio that raised $15M+ from entrepreneurs like Shopify's President, and got my start in tech by working on named-entity-recognition at BenchSci (world-leader in AI for preclinicial R&D) on a team of PhDs.
+Prior to this, I developed AI agents and wrote investment memos at Simple Ventures, a leading Canadian venture studio that raised $15M+ from entrepreneurs like Shopify's President, and got my start in tech by working on named-entity-recognition at BenchSci (world-leader in AI for preclinicial R&D) on a team of PhDs.
 
 
 <!--
